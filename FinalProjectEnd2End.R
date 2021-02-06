@@ -6,3 +6,4 @@ function() {
   x <- 4
 }
 abc <- 'asddaf'
+b <- 'bbbbb'
